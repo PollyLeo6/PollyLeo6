@@ -2,7 +2,7 @@
 
 # Hi there, I'm Polina! 👋
 
-### 🤖 ML Engineer & NLP Specialist | Linguist at Heart
+### 🤖 ML Engineer & NLP Specialist 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
