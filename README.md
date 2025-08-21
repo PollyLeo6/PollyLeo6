@@ -17,24 +17,19 @@
 
 Welcome to my GitHub profile! I am a passionate ML enthusiast leveraging a strong foundation in **linguistics** from **Tomsk State University** and modern AI/ML expertise. My goal is to build intelligent systems that deeply understand human language.
 
-```python
-class PolinaLeonteva:
-    def __init__(self):
-        self.name = "Polina Leonteva"
-        self.role = "ML Engineer & NLP Specialist"
-        self.background = "Linguistics"
-        self.interests = ["Classical ML", "LLMs", "NLP Engineering"]
-        self.currently_seeking = "Junior ML Engineer | NLP Engineer"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python"],
-            "ml_frameworks": ["PyTorch", "Scikit-learn"],
-            "nlp_tools": ["Hugging Face", "SpaCy", "NLTK"],
-            "data_tools": ["Pandas", "NumPy"],
-            "dev_tools": ["Git", "Docker", "Jupyter"]
-        }
-```
+🎯 **Name:** Polina Leonteva  
+💼 **Role:** ML Engineer & NLP Specialist  
+🎓 **Background:** Linguistics  
+🔍 **Interests:** Classical ML • LLMs • NLP Engineering  
+🚀 **Currently Seeking:** Junior ML Engineer | NLP Engineer  
+
+### 💻 Skills & Technologies
+
+**Languages:** Python  
+**ML & DL:** PyTorch • Scikit-learn  
+**NLP Tools:** Hugging Face • SpaCy • NLTK  
+**Data Processing:** Pandas • NumPy  
+**Development:** Git • Docker • Jupyter
 
 ## 🎓 Education & Certifications
 
